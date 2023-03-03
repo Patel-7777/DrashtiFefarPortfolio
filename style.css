@@ -252,6 +252,7 @@ header .navbar ul li a:hover{
     padding-left: 4rem;
     border-left: .2rem solid #fff;
     position: relative;
+    margin-left: 9rem;
 }
 
 .education .box-container .box span{
@@ -318,7 +319,8 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     text-align: center;
-    /* margin:4rem 1rem;
+     margin-left:17rem;
+    /*
     padding-left: 4rem;
      */
     color: #fff;
